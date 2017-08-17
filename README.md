@@ -1,0 +1,1 @@
+A full stack application that use the MEAN stack, however it inlcuds Ionic framework for mobile.
